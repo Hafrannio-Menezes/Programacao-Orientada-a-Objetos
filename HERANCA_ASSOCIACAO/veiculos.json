@@ -1,0 +1,32 @@
+[
+    {
+        "tipo": "Carro",
+        "marca": "honda",
+        "modelo": "civicg10",
+        "portas": 4
+    },
+    {
+        "tipo": "Carro",
+        "marca": "honda",
+        "modelo": "city",
+        "portas": 4
+    },
+    {
+        "tipo": "Bicicleta",
+        "marca": "Colli",
+        "modelo": "Toronto",
+        "tipo_bicicleta": "Urbana"
+    },
+    {
+        "tipo": "Carro",
+        "marca": "Volkswagen",
+        "modelo": "Golf GTI Performance Edition 2023",
+        "portas": 4
+    },
+    {
+        "tipo": "Moto",
+        "marca": "Honda",
+        "modelo": "Titan",
+        "cilindrada": 160
+    }
+]

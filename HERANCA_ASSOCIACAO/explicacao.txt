@@ -1,0 +1,16 @@
+Herança e associação.
+
+A herança está presente nas classes Carro e Bicicleta, que herdam da classe base Veiculo:
+
+Carro(Veiculo) (em classe_carro.py)
+Moto(Veiculo) em (classe_moto.py)
+Bicicleta(Veiculo) (em classe_bicicleta.py)
+
+Essas classes filhas aproveitam atributos e métodos da classe Veiculo e adicionam suas próprias características.
+
+Associação
+A associação ocorre porque o programa principal (main.py) utiliza as classes Carro e Bicicleta para criar objetos
+e manipular dados, mas não há dependência direta entre as classes filhas.
+
+Demonstra herança (especialização de Veiculo em Carro e Bicicleta)
+e associação (uso dessas classes noprograma principal).
